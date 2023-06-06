@@ -9,6 +9,7 @@ edition = "2021"
 anyhow = "1.0.71"
 clap = { version = "4.3.2", features = ["derive"] }
 thiserror = "1.0.40"
+walkdir = "2.3.3"
 
 [dev-dependencies]
 rstest = "0.17.0"
